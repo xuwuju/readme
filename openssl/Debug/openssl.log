@@ -1,0 +1,6 @@
+﻿test.obj : error LNK2019: 无法解析的外部符号 _MD5_Init，该符号在函数 _getMD5 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _MD5_Update，该符号在函数 _getMD5 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _MD5_Final，该符号在函数 _getMD5 中被引用
+C:\OpenSSL-Win64\lib\libcrypto.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+C:\OpenSSL-Win64\lib\libssl.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vs2017\openssl\Debug\openssl.exe : fatal error LNK1120: 3 个无法解析的外部命令
