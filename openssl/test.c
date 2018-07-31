@@ -26,4 +26,8 @@ int main()
 	printf("md5 value: %s\n", result);
 	//system("pause");
 	return 0;
+	
+	xxxxxx
+	yyyyyyy
+	zzzzzzz
 }
